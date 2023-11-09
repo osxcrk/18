@@ -1,0 +1,8 @@
+{
+    "name": "VN Repository Phim xx",
+    "description": "Phim việt",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/osxcrk/18x/builds/plugins.json"
+    ]
+  }
